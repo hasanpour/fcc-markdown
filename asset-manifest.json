@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-markdown/static/css/main.1433a502.css",
+    "main.js": "/fcc-markdown/static/js/main.d32915db.js",
+    "index.html": "/fcc-markdown/index.html",
+    "main.1433a502.css.map": "/fcc-markdown/static/css/main.1433a502.css.map",
+    "main.d32915db.js.map": "/fcc-markdown/static/js/main.d32915db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1433a502.css",
+    "static/js/main.d32915db.js"
+  ]
+}
